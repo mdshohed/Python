@@ -38,3 +38,10 @@ list = [ 5,7,6,23,45]
 list.remove(23)
 print(list)
 
+
+#form string to list create
+string = "mdsohed", "hello","desh","tararism";
+#convert string to list use re library
+import  re
+list = re.split( ',', string)
+print(list)
