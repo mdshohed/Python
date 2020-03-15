@@ -43,3 +43,16 @@ for car in ara:
     print(car)
     if car == "hello":
         print("hello mutu")
+        
+        
+        
+
+#sum calculate int or not
+
+
+list = [ 2,3,4,"mdshohed",5]
+sum = 0
+for i in list:
+    if type(i) == int:
+        sum+=i
+print("sum is : {sum}".format(sum=sum))
