@@ -31,3 +31,10 @@ list = [ 5,7,6,23,45]
 print(list)
 newlist = list.pop(2)
 print(list, "\n", newlist)
+
+#list value remove
+
+list = [ 5,7,6,23,45]
+list.remove(23)
+print(list)
+
