@@ -28,3 +28,9 @@ if value % 2 == 0:
     print("Even\n")
 else:
     print("Odd\n")
+    
+    
+# Ternary Operator
+a = 100
+b = 50
+print(a if a > b else b)
