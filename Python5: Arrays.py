@@ -1,4 +1,3 @@
-
 # list int value input
 list = []
 n = int(input())
@@ -7,7 +6,7 @@ for i in range(0, n):
     list.append(t)
 print(list)
 
-# list str value input
+# list string value input
 list2 = []
 p = int(input())
 for i in range(0, p):
@@ -15,6 +14,7 @@ for i in range(0, p):
     list2.append(t)
 print(list2)
 
+list = 
 # 2d matrix represent
 matrix = [[1, 3, 4, 5], [2, 4, 6, 8], [1, 5, 9, 2],[5, 9, 54, 23]]
 for i in matrix:
