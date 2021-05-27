@@ -1,4 +1,4 @@
-#auto message: 
+#auto message: pip install PyAutoGUI
 
 
 import pyautogui
