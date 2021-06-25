@@ -4,6 +4,11 @@ print(ara)
 print(ara[0])
 print(ara[3:])
 
+#Value Search
+print("C" in ara) 
+print(ara + ["Rubi", 23])
+
+
 #convert form list to string
 list = ["mdshohed","hello","year","and"]
 string = ' '.join(list)
