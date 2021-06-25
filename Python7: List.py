@@ -34,3 +34,15 @@ print(list)
 
 #how many list value
 print(len(list))
+
+
+ara = list(range(10))
+print(ara)
+
+ara1 = list(range(3,10))
+print(ara1)
+
+ara2 = list(range(2,10,5))
+print(ara2)
+
+
