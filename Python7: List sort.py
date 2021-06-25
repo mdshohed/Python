@@ -1,3 +1,8 @@
+ara = ["C", "C++", "Java", "Python", "JavaScript", "React", "C#"]
+
+print(ara)
+print(ara[0])
+print(ara[3:])
 
 #convert form list to string
 list = ["mdshohed","hello","year","and"]
